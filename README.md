@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi there, my name is Jahsh Arshad 👋
+
+### About Me 💻
+My name is Jahsh Arshad, and I am a high school student attending American High in Fremont, California. I am passionate about programming and interested in pursuing a career in computer science, being most interested in algorithms. I have greatest proficiency in and most use Python and Java and am in the silver division of the USA Computing Olympiad. In my free time, I love to play soccer, debate, and spend time with my family.
+
+### Contact Info 📫
+* Email: jahsharshad@gmail.com
+* Linkedin: [jahsharshad](https://www.linkedin.com/in/jahsh-arshad-359827207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFlfITherQV6hvbm7%2B5C58g%3D%3D)
+
 
 <!--
 **jahsharshad/jahsharshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
