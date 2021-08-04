@@ -3,6 +3,9 @@
 ### About Me 💻⚽️👨‍🎓 
 I am a rising sophomore at American High School and have been an avid programmer for over six years, with knowledge in Python, HTML/CSS, Java, Swift, Linux, data visualization, and machine learning. Apart from programming, I enjoy competitive programming, competitive soccer, varsity Public Forum debate, and watching movies with my family. 
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jahsharshad&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Contact Info 📫✉️
 * Email: jahsharshad@gmail.com
 * Facebook: [jahsh.arshad](https://www.facebook.com/jahsh.arshad/)
