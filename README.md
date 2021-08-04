@@ -1,10 +1,12 @@
 ## Hi there, my name is Jahsh Arshad 👋
 
 ### About Me 💻⚽️👨‍🎓 
-My name is Jahsh Arshad, and I am a high school student attending American High in Fremont, California. I am passionate about programming and interested in pursuing a career in computer science, being most interested in algorithms. I have greatest proficiency in and most use Python and Java and am in the silver division of the USA Computing Olympiad. In my free time, I love to play soccer, debate, and spend time with my family.
+I am a rising sophomore at American High School and have been an avid programmer for over six years, with knowledge in Python, HTML/CSS, Java, Swift, Linux, data visualization, and machine learning. Apart from programming, I enjoy competitive programming, competitive soccer, varsity Public Forum debate, and watching movies with my family. 
 
 ### Contact Info 📫✉️
 * Email: jahsharshad@gmail.com
+* Facebook: [jahsh.arshad](https://www.facebook.com/jahsh.arshad/)
+* Instagram: [jahsharshad](https://www.instagram.com/jahsharshad/)
 * Linkedin: [jahsharshad](https://www.linkedin.com/in/jahsh-arshad-359827207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFlfITherQV6hvbm7%2B5C58g%3D%3D)
 
 
