@@ -9,7 +9,6 @@ I am a rising sophomore at American High School and have been an avid programmer
 * Instagram: [jahsharshad](https://www.instagram.com/jahsharshad/)
 * Linkedin: [jahsharshad](https://www.linkedin.com/in/jahsh-arshad-359827207?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BFlfITherQV6hvbm7%2B5C58g%3D%3D)
 
-[![Jahsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jahsharshad)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jahsharshad/jahsharshad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
