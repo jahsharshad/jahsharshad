@@ -1,7 +1,7 @@
 ## Hi there, my name is Jahsh Arshad 👋
 
 ### About Me 💻⚽️👨‍🎓 
-I am a rising sophomore at American High School and have been an avid programmer for over six years, with knowledge in Python, HTML/CSS, Java, Swift, Linux, data visualization, and machine learning. Apart from programming, I enjoy competitive programming, competitive soccer, varsity Public Forum debate, and watching movies with my family. 
+I am a sophomore at American High School and have been an avid programmer for over six years, with knowledge in Python, HTML/CSS, Java, Swift, Linux, data visualization, and machine learning. Apart from programming, I enjoy competitive programming, competitive soccer, varsity Public Forum debate, and watching movies with my family. 
 
 
 ### Contact Info 📫✉️
