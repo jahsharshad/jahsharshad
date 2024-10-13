@@ -1,7 +1,7 @@
 ## Hi there, my name is Jahsh Arshad 👋
 
 ### About Me 💻⚽️👨‍🎓 
-I am a senior at American High School and have been an avid programmer for over six years, with knowledge in Python, HTML/CSS, Java, Swift, Linux, C++, JavaScript, mySQL, data visualization, and machine learning. Apart from programming, I enjoy soccer, debate, and watching movies with my family. 
+Studying EECS at UC Berkeley. Interested in all things startups.
 
 
 ### Contact Info 📫✉️
